@@ -1,4 +1,4 @@
-# 🧠 My LeetCode Grind
+#  My LeetCode Grind
 
 Tracking my daily DSA progress 
 ## 📅 Weekly Goals
