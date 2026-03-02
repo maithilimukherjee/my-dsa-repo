@@ -7,7 +7,7 @@ class Solution:
       return n
 
     prev1=1
-    prev2=3
+    prev2=2
 
     for i in range(3,n+1):
       curr = prev1+prev2
